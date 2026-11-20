@@ -1,0 +1,243 @@
+{
+  "synthetic": true,
+  "source_duration_s": 7.0,
+  "speed": 1.0,
+  "source_words": [
+    {
+      "text": "1.",
+      "start": 0.2,
+      "end": 0.4,
+      "prob": 1.0
+    },
+    {
+      "text": "Hãy",
+      "start": 0.42,
+      "end": 0.62,
+      "prob": 1.0
+    },
+    {
+      "text": "nhìn",
+      "start": 0.64,
+      "end": 0.84,
+      "prob": 1.0
+    },
+    {
+      "text": "vào",
+      "start": 0.86,
+      "end": 1.06,
+      "prob": 1.0
+    },
+    {
+      "text": "khuôn",
+      "start": 1.08,
+      "end": 1.28,
+      "prob": 1.0
+    },
+    {
+      "text": "hình",
+      "start": 1.3,
+      "end": 1.5,
+      "prob": 1.0
+    },
+    {
+      "text": "trước.",
+      "start": 1.52,
+      "end": 1.72,
+      "prob": 1.0
+    },
+    {
+      "text": "Đây",
+      "start": 2.5,
+      "end": 2.7,
+      "prob": 1.0
+    },
+    {
+      "text": "là",
+      "start": 2.72,
+      "end": 2.92,
+      "prob": 1.0
+    },
+    {
+      "text": "phần",
+      "start": 2.94,
+      "end": 3.14,
+      "prob": 1.0
+    },
+    {
+      "text": "bị",
+      "start": 3.16,
+      "end": 3.36,
+      "prob": 1.0
+    },
+    {
+      "text": "bỏ.",
+      "start": 3.38,
+      "end": 3.58,
+      "prob": 1.0
+    },
+    {
+      "text": "Một",
+      "start": 4.2,
+      "end": 4.4,
+      "prob": 1.0
+    },
+    {
+      "text": "thay",
+      "start": 4.42,
+      "end": 4.62,
+      "prob": 1.0
+    },
+    {
+      "text": "đổi",
+      "start": 4.64,
+      "end": 4.84,
+      "prob": 1.0
+    },
+    {
+      "text": "nhỏ,",
+      "start": 4.86,
+      "end": 5.06,
+      "prob": 1.0
+    },
+    {
+      "text": "nhưng",
+      "start": 5.08,
+      "end": 5.28,
+      "prob": 1.0
+    },
+    {
+      "text": "dễ",
+      "start": 5.3,
+      "end": 5.5,
+      "prob": 1.0
+    },
+    {
+      "text": "nhận",
+      "start": 5.52,
+      "end": 5.72,
+      "prob": 1.0
+    },
+    {
+      "text": "ra.",
+      "start": 5.74,
+      "end": 5.94,
+      "prob": 1.0
+    }
+  ],
+  "emphasis_words": [
+    "nhỏ",
+    "khuôn"
+  ],
+  "playlist": [
+    {
+      "src_start": 4.0,
+      "src_end": 6.2,
+      "out_start": 0.0,
+      "role": "hook"
+    },
+    {
+      "src_start": 0.0,
+      "src_end": 2.0,
+      "out_start": 2.2,
+      "role": "body"
+    }
+  ],
+  "groups": [
+    [
+      {
+        "source_word_index": 12,
+        "text": "Một",
+        "out_start": 0.2,
+        "out_end": 0.4
+      },
+      {
+        "source_word_index": 13,
+        "text": "thay",
+        "out_start": 0.42,
+        "out_end": 0.62
+      },
+      {
+        "source_word_index": 14,
+        "text": "đổi",
+        "out_start": 0.64,
+        "out_end": 0.84
+      },
+      {
+        "source_word_index": 15,
+        "text": "nhỏ,",
+        "out_start": 0.86,
+        "out_end": 1.06
+      }
+    ],
+    [
+      {
+        "source_word_index": 16,
+        "text": "nhưng",
+        "out_start": 1.08,
+        "out_end": 1.28
+      },
+      {
+        "source_word_index": 17,
+        "text": "dễ",
+        "out_start": 1.3,
+        "out_end": 1.5
+      },
+      {
+        "source_word_index": 18,
+        "text": "nhận",
+        "out_start": 1.52,
+        "out_end": 1.72
+      },
+      {
+        "source_word_index": 19,
+        "text": "ra.",
+        "out_start": 1.74,
+        "out_end": 1.94
+      }
+    ],
+    [
+      {
+        "source_word_index": 0,
+        "text": "1.",
+        "out_start": 2.4,
+        "out_end": 2.6
+      },
+      {
+        "source_word_index": 1,
+        "text": "Hãy",
+        "out_start": 2.62,
+        "out_end": 2.82
+      },
+      {
+        "source_word_index": 2,
+        "text": "nhìn",
+        "out_start": 2.84,
+        "out_end": 3.04
+      },
+      {
+        "source_word_index": 3,
+        "text": "vào",
+        "out_start": 3.06,
+        "out_end": 3.26
+      },
+      {
+        "source_word_index": 4,
+        "text": "khuôn",
+        "out_start": 3.28,
+        "out_end": 3.48
+      },
+      {
+        "source_word_index": 5,
+        "text": "hình",
+        "out_start": 3.5,
+        "out_end": 3.7
+      },
+      {
+        "source_word_index": 6,
+        "text": "trước.",
+        "out_start": 3.72,
+        "out_end": 3.92
+      }
+    ]
+  ]
+}

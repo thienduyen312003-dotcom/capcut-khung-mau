@@ -1,0 +1,48 @@
+{
+  "app_version": "v1.260914.002",
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "match_source": false
+  },
+  "transcribe": {
+    "provider": "ElevenLabs",
+    "model_id": "scribe_v1",
+    "language": "vi",
+    "cache_priority": [
+      "words.json",
+      "srt",
+      "scribe"
+    ]
+  },
+  "subtitles": {
+    "font_name": "Be Vietnam Pro",
+    "font_size": 88,
+    "max_words_per_event": 5,
+    "primary_color": "&H00FFFFFF",
+    "active_color": "&H000DDFF4",
+    "emphasis_color": "&H000DDFF4",
+    "outline": 5,
+    "margin_v": 500,
+    "callout": false,
+    "callout_font_size": 84,
+    "callout_color": "&H000DDFF4",
+    "callout_duration": 2.8,
+    "hook_card": false,
+    "hook_flash": true
+  },
+  "base_margin_v": 680,
+  "karaoke": {
+    "active_word_scale_percent": 114,
+    "line_fade_in_ms": 70,
+    "min_word_event_ms": 20,
+    "gap_after_previous_line_ms": 10
+  },
+  "music_base_config": {
+    "music_enabled": true,
+    "music_file": "Windy Hill",
+    "music_volume": 0.12,
+    "music_ducking": false,
+    "target_lufs": -14
+  }
+}
